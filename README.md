@@ -2,11 +2,15 @@
 
 [*Computational Assessment of Hyperpartisanship in News Titles*](https://arxiv.org/abs/2301.06270)
 
-[Hanjia Lyu](https://brucelyu17.github.io/)\* (hlyu5@ur.rochester.edu), Jinsheng Pan\*, Zichen Wang\*, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)  
+[Hanjia Lyu](https://brucelyu17.github.io/)\*, Jinsheng Pan\*, Zichen Wang\*, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)  
 
 *: equal contribution
 
-Published at ICWSM 2024
+Published at [ICWSM 2024](https://www.icwsm.org/2024/index.html/)
+
+**Contact**
+
+Hanjia Lyu (hlyu5@ur.rochester.edu), Jiebo Luo (jluo@cs.rochester.edu)
 
 
 ## Citation
