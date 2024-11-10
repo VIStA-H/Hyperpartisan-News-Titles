@@ -12,6 +12,8 @@ Published at [ICWSM 2024](https://www.icwsm.org/2024/index.html/)
 
 Hanjia Lyu (hlyu5@ur.rochester.edu), Jiebo Luo (jluo@cs.rochester.edu)
 
+![main result](./main_result.png)
+
 
 ## Citation
 ```
