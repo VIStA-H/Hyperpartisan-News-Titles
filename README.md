@@ -29,6 +29,7 @@ booktitle={Proceedings of the International AAAI Conference on Web and Social Me
 volume={18},
 pages={999--1012},
 year={2024},
-url={https://openreview.net/forum?id=wYvuY60SdD}
+url={https://ojs.aaai.org/index.php/ICWSM/article/view/31368},
+DOI={10.1609/icwsm.v18i1.31368}
 }
 ```
