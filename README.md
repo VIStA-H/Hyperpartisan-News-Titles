@@ -33,3 +33,13 @@ url={https://ojs.aaai.org/index.php/ICWSM/article/view/31368},
 DOI={10.1609/icwsm.v18i1.31368}
 }
 ```
+
+## Related Work
+
+[WWW 2024] [Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs](https://brucelyu17.github.io/papers/PEG.pdf)
+
+[IEEE BigData 2023] [Understanding Divergent Framing of the Supreme Court Controversies: Social Media vs. News Outlets](https://arxiv.org/pdf/2309.09508.pdf)
+
+[MEDIATE 2023] [Bias or Diversity? Unraveling Fine-Grained Thematic Discrepancy in U.S. News Headlines](https://workshop-proceedings.icwsm.org/pdf/2023_25.pdf)
+
+[MM 2022] [Understanding Political Polarization via Jointly Modeling Users, Connections and Multimodal Contents on Heterogeneous Graphs](https://arxiv.org/pdf/2201.05946)
